@@ -1,0 +1,133 @@
+body {
+	background-color: #E3E4FA;
+}
+table { 
+	border:none; 
+}
+#number0 {
+	padding-top:25px
+}
+#div1 {
+	padding-left:30px; 
+	padding-right:30px; 
+	padding-top:0px; 
+	padding-bottom:10px; 
+	width:498px; 
+	background-color:#733FC8; 
+	border-radius:6px; 
+	margin-right:20px; 
+	margin-bottom:10px;
+}
+#div2 {
+	padding-left:30px; 
+	padding-right:30px; 
+	padding-top:0px; 
+	padding-bottom:10px; 
+	width:193px; 
+	background-color:#49556B; 
+	color:white; 
+	border-radius:6px; 
+	margin-top:-5px; 
+	margin-right:20px; 
+	margin-top:-10px;
+}
+#div3 {
+	padding-left:30px; 
+	padding-right:30px; 
+	padding-top:0px; 
+	padding-bottom:10px; 
+	width:200px; 
+	background-color:#ffffff; 
+	border-radius:6px; 
+	margin-top:0px;
+}
+#div4 {
+	padding-left:30px; 
+	padding-right:30px; 
+	padding-top:1px; 
+	padding-bottom:10px; 
+	width:490px; 
+	background-color:#19212E; 
+	border-radius:6px; 
+	margin-left:20px; 
+	margin-top:0px;
+}
+#div5 {
+	padding-left:30px; 
+	padding-right:30px; 
+	padding-top:-10px; 
+	padding-bottom:5px; 
+	width:200px; 
+	height:523px;
+	background-color:#ffffff; 
+	border-radius:6px; 
+	margin-top:1px; 
+	margin-left:-5px;
+}
+#image {
+	height:30px; 
+	width:30px; 
+	border-radius:20px;
+}
+#Verified {
+	padding-left:10px; 
+	color:#A9A9A9;
+}
+#Nameh5div1, #Nameh5div2 {
+	padding-left:10px; 
+	margin-bottom:-20px; 
+	color:#ffffff;
+}
+#nameh5div3 {
+	padding-left:10px;
+	margin-bottom:-20px;
+}
+#nameh5div4 {
+	padding-left:10px; 
+	margin-bottom:-20px; 
+	color:#ffffff;
+}
+#nameh5div5 {
+	padding-left:10px; 
+	margin-bottom:-20px;
+}
+#div3 table, #div4 table {
+	margin-bottom:-15px;
+}
+#comment {
+	
+	font-size:13px; 
+	color:#A9A9A9;
+	font-family:calibri;
+}
+#Titlediv1 {
+	font-size:20px; 
+	margin-top:-10px; 
+	color:#ffffff; 
+	font-family:calibri;
+}
+#Titlediv2 {
+	font-size:20px; 
+	margin-top:-10px; 
+	color:#ffffff; 
+	font-family:calibri;
+}
+#Titlediv3 {
+	font-size:20px; 
+	margin-top:-10px; 
+	margin-bottom:-2px; 
+	color:#000000; 
+	font-family:calibri;
+}
+#Titlediv4 {
+	font-size:18px; 
+	margin-top:-10px; 
+	color:#ffffff; 
+	font-family:calibri;
+}
+#Titlediv5 {
+	font-size:20px; 
+	margin-top:-10px; 
+	color:#000000; 
+	font-family:calibri;
+}
