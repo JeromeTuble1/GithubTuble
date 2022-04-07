@@ -8,6 +8,10 @@ table {
 	padding-top:25px
 }
 #div1 {
+	background-image: url("images/bg-pattern-quotation.svg");
+	background-repeat: no-repeat;
+	background-position-x: 360px;
+    background-position-y: 0px;
 	padding-left:30px; 
 	padding-right:30px; 
 	padding-top:0px; 
@@ -53,11 +57,13 @@ table {
 	margin-top:0px;
 }
 #div5 {
+	
 	padding-left:30px; 
 	padding-right:30px; 
 	padding-top:-10px; 
 	padding-bottom:5px; 
 	width:200px; 
+	height:523px;
 	background-color:#ffffff; 
 	border-radius:6px; 
 	margin-top:1px; 
@@ -94,8 +100,9 @@ table {
 	margin-bottom:-15px;
 }
 #comment {
+	
 	font-size:13px; 
-	color:#A9A9A9; 
+	color:#A9A9A9;
 	font-family:calibri;
 }
 #Titlediv1 {
