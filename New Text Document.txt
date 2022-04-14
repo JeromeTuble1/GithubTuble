@@ -1,0 +1,7 @@
+touch index.html
+git init
+git remote add origin git@github.com:JeromeTuble1/GithubTuble.git
+git add .
+git commit -m "sample"
+git pull --rebase origin master
+git push -u origin master
